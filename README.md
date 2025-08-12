@@ -7,7 +7,7 @@ I'm a four years working backend engineer who enjoys building wheels and playing
 
 Blogger, Lifelong learner. 
 
-- 🐦 Twitter/X - [Jack_OuCJ]((https://x.com/Jack_OuCJ))
+- 🐦 Twitter/X - [Jack_OuCJ](https://x.com/Jack_OuCJ)
 - ✉️ Ping me by [Email](760875296@qq.com)
 - 💬 WeChat: Ou760875296
 - ⚒ More social media: 
