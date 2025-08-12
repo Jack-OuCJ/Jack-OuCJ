@@ -1,4 +1,4 @@
-### Hi I'm CongJie Ou, but you can also call me Jack 👋
+### Hi I'm CongJie Ou, you can also call me Jack 👋
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Jack-OuCJ&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
@@ -34,5 +34,5 @@ Lifelong learner. Striving to become a senior smart contract security auditor in
 
 **Tools**
 
-<img src="https://img.shields.io/badge/Xcode-%23007acc.svg?logo=xcode&logoColor=white&style=flat-square" alt="Xcode" /> <img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
+<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
 
