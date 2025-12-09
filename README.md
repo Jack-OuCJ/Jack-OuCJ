@@ -1,8 +1,5 @@
 ### Hi I'm CongJie Ou, you can also call me Jack 👋
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Jack-OuCJ&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
-
 I’m a Web3 full‑stack engineer with over three years of experience, focusing on smart contract security auditing.
 
 Lifelong learner.
