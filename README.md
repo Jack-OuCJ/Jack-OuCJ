@@ -5,7 +5,7 @@
 
 I’m a Web3 full‑stack engineer with over three years of experience, focusing on smart contract security auditing.
 
-Lifelong learner. Striving to become a senior smart contract security auditor in Web3.
+Lifelong learner.
 
 - 🕊 Twitter/X：[Jack_OuCJ](https://x.com/Jack_OuCJ)
 - ✉️ Ping me by [Email](760875296@qq.com)
