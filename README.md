@@ -1,6 +1,6 @@
-### Hi I'm CongJie Ou, you can also call me Jack 👋
+### Hi I'm Jack Ou 👋
 
-I’m a Web3 full‑stack engineer with over three years of experience, focusing on smart contract security auditing.
+A Web3 full‑stack engineer with over three years of experience, focusing on smart contract security auditing.
 
 Lifelong learner.
 
