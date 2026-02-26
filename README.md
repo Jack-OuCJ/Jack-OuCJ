@@ -1,35 +1,26 @@
-### Hi I'm Jack Ou 👋
+### Hi, I'm Jack Ou 👋
 
-A Web3 full‑stack engineer with over three years of experience, focusing on smart contract security auditing.
+Web3 **Smart Contract Developer & Security Auditor** (3+ years).  
+Background in **database kernel (C/C++)**, **high-concurrency resource control**, and **secure messaging (E2EE/MPC wallet)**.
 
-Lifelong learner.
+I focus on **finding exploitable bugs and turning them into actionable fixes**:
+- Static analysis: Slither / Aderyn
+- Dynamic testing: Foundry unit, fuzz & invariant
+- Reporting: clear severity, PoC, and mitigation
 
-- 🕊 Twitter/X：[Jack_OuCJ](https://x.com/Jack_OuCJ)
-- ✉️ Ping me by [Email](760875296@qq.com)
-- 💬 WeChat: Ou760875296
-- ✈️ Telegram: [Jack_OuCJ](https://t.me/Jack_OuCJ)
+**Highlights**
+- Built and delivered GaussDB Oracle-compat features (nested subprograms, cross-package parameter cursors, multi-tenant IO control).
+- Implemented E2EE messaging (Signal Protocol) and MPC wallet onboarding (Web3Auth) in a cross-platform product.
+- Executed a CEX↔DEX arbitrage bot with **50+ successful runs**.
+- ZK prototype: Commitment + Nullifier + Merkle Tree, Noir + UltraHonk end-to-end proof generation & on-chain verification.
 
-### Technology Stack
+**Selected Projects**
+- Security audit portfolio: https://github.com/Jack-OuCJ/security-portfolio
+- ZK mixer prototype (Noir/UltraHonk): https://github.com/Jack-OuCJ/zk-mixer-ou
+- OmniPilot (MCP + multi-chain intent execution): https://github.com/Jack-OuCJ/OmniPilot
+- Arbitrage bot (Rust/Anchor): https://github.com/Jack-OuCJ/Arbitrage-Dc
 
-**Languages**
-
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?&logo=Solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?&logo=Rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?&logo=TypeScript&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?&logo=Markdown&logoColor=white)
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Html5-%23e34f26.svg?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-%231572b6.svg?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /> <img src="https://img.shields.io/badge/Tailwindcss-%2338b2ac.svg?logo=tailwind-css&logoColor=white&style=flat-square" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/NPM-%23cb0000.svg?logo=npm&logoColor=white&style=flat-square" alt="npm" /> <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=React&logoColor=%2361dafb&style=flat-square" alt="React" /> <img src="https://img.shields.io/badge/Synpress-%23128C7E.svg?logo=cypress&logoColor=white&style=flat-square" alt="Synpress" />
-
-<img src="https://img.shields.io/badge/Foundry-%23F5AC37.svg?logo=ethereum&logoColor=black&style=flat-square" alt="Foundry" /> <img src="https://img.shields.io/badge/Hardhat-%23F7DF1E.svg?logo=ethereum&logoColor=black&style=flat-square" alt="Hardhat" /> <img src="https://img.shields.io/badge/Slither-%23000000.svg?logo=solidity&logoColor=white&style=flat-square" alt="Slither" /> <img src="https://img.shields.io/badge/Aderyn-%2300B894.svg?logo=solidity&logoColor=white&style=flat-square" alt="Aderyn" /> <img src="https://img.shields.io/badge/Anchor-%23634FCC.svg?logo=solana&logoColor=white&style=flat-square" alt="Anchor" />
-
-<img src="https://img.shields.io/badge/Mysql-%234479a1.svg?logo=MySQL&logoColor=white&style=flat-square" alt="MySQL" /> <img src="https://img.shields.io/badge/Postgres-%234169E1.svg?logo=postgresql&logoColor=white&style=flat-square" alt="Postgres" />
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Visual%20studio%20code-%230078d7.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code" /> <img src="https://img.shields.io/badge/Docker-%23000000.svg?logo=Docker&logoColor=blue&style=flat-square" alt="docker" /> <img src="https://img.shields.io/badge/Github-%23000000.svg?logo=github&logoColor=white&style=flat-square" alt="docker" /> 
-
+**Contact**
+- X: https://x.com/Jack_OuCJ
+- Telegram: https://t.me/Jack_OuCJ
+- Email: o760875296@gmail.com
