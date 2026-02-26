@@ -1,6 +1,6 @@
 ### Hi, I'm Jack Ou 👋
 
-Web3 **Smart Contract Developer & Security Auditor** (3+ years).  
+Web3 **Smart Contract Developer & Security Auditor**.  
 Background in **database kernel (C/C++)**, **high-concurrency resource control**, and **secure messaging (E2EE/MPC wallet)**.
 
 I focus on **finding exploitable bugs and turning them into actionable fixes**:
