@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="244" viewBox="0 0 1200 244" role="img" aria-labelledby="title desc">
+<title id="title">AgentHelm — multi-agent research workspace</title><desc id="desc">A dispatcher coordinates a Lead and executor agents. They share rules, task state, and memory on disk. Supports Claude Code and Codex.</desc>
+<style>text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; } .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace; }</style>
+<rect x="1" y="1" width="1198" height="242" rx="18" fill="#111c2b" stroke="#344b5b" />
+<text x="40" y="38" class="mono" font-size="12" letter-spacing="2" fill="#85e0c4">FEATURED / OPEN SOURCE</text>
+<text x="38" y="93" font-size="42" font-weight="700" letter-spacing="-1" fill="#f1f5f6">AgentHelm</text>
+<text x="40" y="127" font-size="20" fill="#b3c4ce">A local-first workspace for</text>
+<text x="40" y="156" font-size="20" fill="#b3c4ce">multi-agent research.</text>
+<text x="40" y="207" class="mono" font-size="12" fill="#85e0c4">CLAUDE CODE + CODEX</text>
+<path d="M456 36V208" stroke="#344b5b" />
+<path d="M652 91H710M860 91H912V60H950M912 91V122H950" fill="none" stroke="#85e0c4" stroke-width="2" />
+<circle cx="912" cy="91" r="4" fill="#85e0c4" />
+<rect x="500" y="64" width="152" height="54" rx="9" fill="#18293a" stroke="#344b5b" />
+<text x="576.0" y="97.0" text-anchor="middle" font-size="17" fill="#f1f5f6">Dispatcher</text>
+<rect x="710" y="64" width="150" height="54" rx="9" fill="#18293a" stroke="#344b5b" />
+<text x="785.0" y="97.0" text-anchor="middle" font-size="17" fill="#f1f5f6">Lead</text>
+<rect x="950" y="39" width="198" height="43" rx="9" fill="#18293a" stroke="#344b5b" />
+<text x="1049.0" y="66.5" text-anchor="middle" font-size="17" fill="#f1f5f6">Executor</text>
+<rect x="950" y="101" width="198" height="43" rx="9" fill="#18293a" stroke="#344b5b" />
+<text x="1049.0" y="128.5" text-anchor="middle" font-size="17" fill="#f1f5f6">Executor</text>
+<path d="M576 118V168M785 118V168M1049 144V168" fill="none" stroke="#344b5b" stroke-dasharray="4 5" />
+<rect x="500" y="168" width="648" height="43" rx="9" fill="#203c42" />
+<text x="824" y="195" text-anchor="middle" class="mono" font-size="13" fill="#85e0c4">SHARED RULES / TASK STATE / MEMORY</text>
+</svg>
